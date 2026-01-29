@@ -1,0 +1,111 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor and IDE Files
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Backup and Temporary Files
+*.bak
+*.tmp
+*.temp
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime Data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage Directory
+coverage/
+.nyc_output
+
+# Dependency Directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build Outputs
+build/
+dist/
+out/
+
+# Test Outputs
+test-results/
+*.test.log
+
+# Documentation Build
+docs/_build/
+
+# Python Files (if any)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Compiled Binary Files
+*.exe
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+
+# Archive Files
+*.zip
+*.tar.gz
+*.rar
+
+# Large Files (keep PDF in repo but ignore other large files)
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
